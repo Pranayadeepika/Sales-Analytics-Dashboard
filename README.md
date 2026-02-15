@@ -1,8 +1,11 @@
 ## Power BI Dashboard
-![Power BI Screenshot](dashboard_screenshot.png)
+
+
+![Power BI Screenshot](Power_BI_Screenshot.png)
 
 ## Tableau Dashboard
-![Tableau Screenshot](tableau_dashboard.png)
+
+![Tableau Screenshot](Tableau_Screenshot.png)
 
 
 # 📊 Sales Analytics Dashboard
