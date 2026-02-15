@@ -1,4 +1,9 @@
-![Dashboard Screenshot](dashboard_screenshot.png)
+## Power BI Dashboard
+![Power BI Screenshot](dashboard_screenshot.png)
+
+## Tableau Dashboard
+![Tableau Screenshot](tableau_dashboard.png)
+
 
 # 📊 Sales Analytics Dashboard
 
