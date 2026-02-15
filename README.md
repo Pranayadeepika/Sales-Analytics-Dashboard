@@ -3,7 +3,7 @@
 
 ## Tableau Dashboard
 
-![Tableau Screenshot](Tableau_Screenshot.png)
+![Tableau Screenshot](Tableau_Screenshort.png)
 
 
 # 📊 Sales Analytics Dashboard
