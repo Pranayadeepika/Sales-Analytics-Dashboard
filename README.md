@@ -1,5 +1,5 @@
 ## Power BI Dashboard
-![Power BI Screenshot](Power_BI_Screenshot.png)
+![Power BI Screenshot](Power_BI_Screenshort.png)
 
 ## Tableau Dashboard
 
